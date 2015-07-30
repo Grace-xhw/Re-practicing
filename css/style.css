@@ -1,3 +1,6 @@
+html{
+/*	overflow-x: hidden;
+*/}
 body{
 	margin: 0;
 	padding:0;
@@ -275,7 +278,6 @@ body{
 	padding: 0;
 }
 .bbs_tit, .photo_tit,.spot_tit,.right_tit{
-	width: 680px;
 	height: 40px;
 }
 .bbs_tit_name,.photo_tit_name,.spot_tit_name,.right_tit_name{
